@@ -1,1 +1,1 @@
-# Battle-Of-Neighborhoods
+This project was part of the IBM Data Science Professional Certificate. The goal of the project was to determine the most strategic location for opening a new business venture in a city, analyzing location data and considering various factors to make the reccomendation. The project was completed using jupyter notebooks and python.
